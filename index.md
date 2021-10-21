@@ -2,6 +2,8 @@
 title: Home Page
 ---
 
+# Welcome
+
 {% include navigation.html %}
 
 ## Players
