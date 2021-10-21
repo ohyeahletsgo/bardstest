@@ -1,3 +1,4 @@
-## Bards test
-
-test
+---
+layout: front-page
+title: Home Page
+---
