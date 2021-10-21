@@ -22,21 +22,15 @@
         <h2>Currently Reading</h2>
         
         <ul>
-          {% assign sorted = site.books | sort: 'date-finished' | reverse %}
+          {% assign sorted = site.players | sort: 'name' %}
 
-          {% for book in sorted limit: 5 %}
-            {% if book.current == true %}
-              <li>
-                <p><a href="{{ site.url }}/current-book">{{ book.title }}, {{ book.author }}</a></p>
-              </li>            
-            {% endif %}
+          {% for player in sorted %}
+            <li>
+              <p><a href="{{ site.url }}/players/{{ player.link">{{ player.name }}</a></p>
+            </li>            
           {% endfor %}
         </ul>
           
-        <h2>Bookclub Favorites</h2>
-        
-        {% include favorites-list.html %}
-        
       </section>
     </div>
 
