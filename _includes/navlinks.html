@@ -6,7 +6,7 @@
   </a>
   {%- else -%}
   <a class="post_navi-item nav_prev" href="{{ 'episodes.html' | absolute_url }}" title="Episodes">
-    <div class="post_navi-arrow">&lt; Return to Campaign Log</div>
+    <div class="post_navi-arrow">&lt; No previous posts:</div><div class="post_navi-arrow">Return to Campaign Log</div>
   </a>
   {%- endif -%}
   {%- if page.next.url -%}
@@ -15,7 +15,7 @@
   </a>
   {%- else -%}
   <a class="post_navi-item nav_next" href="{{ 'episodes.html' | absolute_url }}" title="Episodes">
-    <div class="post_navi-arrow">&gt; Return to Campaign Log</div>
+    <div class="post_navi-arrow">&gt; No more posts:</div><div class="post_navi-arrow">Return to Campaign Log</div>
   </a>
   {%- endif -%}
 </div>
