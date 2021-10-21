@@ -4,7 +4,7 @@ title: Home Page
 
 # Welcome
 
-Home page
+Home page of the Oops! All Bards DnD campaign
 
 ## Players
 
