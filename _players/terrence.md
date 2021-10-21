@@ -1,5 +1,4 @@
 ---
-player: Kekoa
 name: Terrence Lieberman
 layout: default.html
 ---
