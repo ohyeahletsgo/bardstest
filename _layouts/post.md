@@ -9,3 +9,5 @@ layout: default
 <p> > {{ page.date | date: "%b %-d, %Y"}}</P>
 
 {{ content }}  
+
+{% include navlinks.html %}
