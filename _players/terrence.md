@@ -24,7 +24,7 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 | Wisdom       | 9     | -1   |
 | Charisma     | 16    | +3   |
 
-**CORE STATS***
+**CORE STATS**
 
 | Stat         | Value |
 | ------------ | ----- |
