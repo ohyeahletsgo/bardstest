@@ -17,7 +17,7 @@ Home page of the Oops! All Bards DnD campaign
 ## Players_adv
 
 <ul>
-  {% for player in site.players-adv %}
+  {% for player in site.playersadv %}
     <li><a href="{{ site.url }}/bardstest{{ player.url }}">{{ player.name }}</a></li>
   {% endfor %}
 </ul>
