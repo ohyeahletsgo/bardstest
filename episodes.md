@@ -2,7 +2,10 @@
 title: Episodes
 layout: default
 ---
+
 {% include navigation.html %}
+
+# Campaign Log
 
 ## Episodes
 
