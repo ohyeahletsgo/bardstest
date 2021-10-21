@@ -4,5 +4,8 @@ collections:
   players:
     output: true
     permalink: /:collection/:path
+  players-adv:
+    output: true
+    permalink: /:collection/:path
 
     
