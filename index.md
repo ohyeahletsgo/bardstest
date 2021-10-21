@@ -14,11 +14,6 @@ title: Home Page
   {% endfor %}
 </ul>
 
-- [Calista](_players/calista.md)
-- [Davos](_players/davos.md)
-- [Shim](_players/shim.md)
-- [Terrence](_players/terrence.md)
-
 ## Episodes
 
 Read the [campaign log](_pages/blog.html)
