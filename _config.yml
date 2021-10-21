@@ -1,1 +1,16 @@
 theme: jekyll-theme-merlot
+
+collections:
+  players:
+    output: true
+    permalink: /:collection/:path
+  pages:
+    output: true
+    permalink: /:name
+  npcs:
+    output:true
+    permalink: /:collection/:path
+  locations:
+    output: true
+    permalink: /:collection/:path
+    
