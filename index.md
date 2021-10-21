@@ -14,6 +14,15 @@ Home page of the Oops! All Bards DnD campaign
   {% endfor %}
 </ul>
 
+## Players_adv
+
+<ul>
+  {% for player in site.players-adv %}
+    <li><a href="{{ site.url }}/bardstest{{ player.url }}">{{ player.name }}</a></li>
+  {% endfor %}
+</ul>
+
+
 ## Episodes
 
 Read the [campaign log](episodes.md)
