@@ -10,8 +10,8 @@ layout: default
 
 <h1>{{ page.title }}</h1>  
 
-{{ content }}  
-
 <p> > {{ page.date | date: "%b %-d, %Y"}}</P>
+
+{{ content }}  
 
 {% include navlinks.html %}
