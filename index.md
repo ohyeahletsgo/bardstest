@@ -10,7 +10,7 @@ The only DnD campaign, overflowing with bards and daddy issues.
 
 <ul>
   {% for player in site.players %}
-    <li><a href="{{ site.url }}{{ player.url }}">{{ player.name }}</a></li>
+    <li><a href="{{ site.url }}{{ player.url }}">{{ player.name }} 2</a></li>
   {% endfor %}
 </ul>
 
