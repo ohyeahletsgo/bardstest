@@ -1,6 +1,6 @@
 ---
 name: Terrence Lieberman
-layout: default
+layout: player
 ---
 
 # Terrence Lieberman
