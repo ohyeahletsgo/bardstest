@@ -1,6 +1,6 @@
 ---
 name: Davos
-layout: default
+layout: player
 ---
 
 # Davos
