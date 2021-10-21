@@ -11,6 +11,8 @@ layout: default
 
 Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
+![Terrence Lieberman Image](img/terrence.jpg)
+
 ## Character Stats
 
 | Health Points | Damage |
