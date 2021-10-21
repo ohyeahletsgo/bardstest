@@ -2,9 +2,7 @@
 title: Home Page
 ---
 
-# Oops! All Bards!
-
-The only DnD campaign, overflowing with bards and daddy issues.
+{% include navigation.html %}
 
 ## Players
 
