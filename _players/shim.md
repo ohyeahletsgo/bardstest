@@ -1,9 +1,9 @@
 ---
-name: Terrence Lieberman
+name: Shim
 layout: default
 ---
 
-# Terrence Lieberman
+# Shim
 
 Human Bard / Bard 
 
