@@ -1,6 +1,6 @@
 ---
 name: Shim
-layout: default
+layout: player
 ---
 
 # Shim
