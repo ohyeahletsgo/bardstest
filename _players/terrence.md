@@ -14,6 +14,8 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 ## Character Stats
 
 <details>
+  
+<summary>Click to expand!</summary>
 
 **BASIC STATS**
 
