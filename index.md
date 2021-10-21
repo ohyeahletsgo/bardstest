@@ -20,5 +20,5 @@ Read the [campaign log](episodes.md)
 
 ## Other Campaign Info
 
-- [NPCs](google.com)
-- [Locations](google.com)
+- [NPCs](npcs.md)
+- [Locations](locations.md)
