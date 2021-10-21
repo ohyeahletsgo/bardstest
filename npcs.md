@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+# NPCs
+
+{% include navigation %}
+
+## List of NPCs
+
+<ul>
+  {% for npc in site.npcs %}
+    <li><a href="{{ site.url }}/bardstest{{ npc.url }}">{{ npc.name }}</a></li>
+  {% endfor %}
+</ul>
