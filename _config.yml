@@ -8,7 +8,7 @@ collections:
     output: true
     permalink: /:name
   npcs:
-    output:true
+    output: true
     permalink: /:collection/:path
   locations:
     output: true
