@@ -10,6 +10,6 @@ layout: default
 
 <ul>
   {% for npc in site.npcs %}
-    <li><a href="{{ site.url }}/bardstest{{ npc.url }}">{{ npc.name }}</a></li>
+    <li><a href="{{ site.url }}/oopsallbards{{ npc.url }}">{{ npc.name }}</a></li>
   {% endfor %}
 </ul>
