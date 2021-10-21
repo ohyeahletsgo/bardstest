@@ -1,6 +1,6 @@
 ---
 name: Terrence Lieberman
-layout: default.html
+layout: default
 ---
 
 # Terrence Lieberman
