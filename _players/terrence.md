@@ -1,7 +1,7 @@
 ---
 player: Kekoa
 name: Terrence Lieberman
-link: terrence-lieberman.md
+link: terrence.md
 ---
 
 # Terrence Lieberman
