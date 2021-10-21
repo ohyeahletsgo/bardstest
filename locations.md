@@ -10,6 +10,6 @@ layout: default
 
 <ul>
   {% for location in site.locations %}
-    <li><a href="{{ site.url }}/bardstest{{ location.url }}">{{ location.name }}</a></li>
+    <li><a href="{{ site.url }}/oopsallbards{{ location.url }}">{{ location.name }}</a></li>
   {% endfor %}
 </ul>
