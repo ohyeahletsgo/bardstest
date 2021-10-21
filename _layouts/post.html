@@ -4,8 +4,8 @@ layout: default
 
 {% include navigation.html %}
 
-# {{ page.title }}  
+# {{ page.title | escape }}  
 
-Written: {{ page.date }}  
+{{ page.date }}  
 
 {{ content }}  
