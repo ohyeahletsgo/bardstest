@@ -1,6 +1,6 @@
 ---
 name: Calista
-layout: default
+layout: player
 ---
 
 # Calista
