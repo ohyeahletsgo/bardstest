@@ -90,25 +90,25 @@ Weapon info at [Roll20](https://roll20.net/compendium/dnd5e/Weapons#content)
 
 **Carried Items**
 
-1. Delilah's Tambourine
+Delilah's Tambourine
 
-Gives a +2 buff to all Performance checks.
+  - Gives a +2 buff to all Performance checks.
 
-2. Delilah's Leotard
+Delilah's Leotard
 
-Gives a +2 buff to all Charisma checks.
+  - Gives a +2 buff to all Charisma checks.
 
-3. Entertainer's Pack
+Entertainer's Pack
 
-Information at [Roll20](https://roll20.net/compendium/dnd5e/Entertainer%27s%20Pack#h-Entertainer%27s%20Pack).
+  - Information at [Roll20](https://roll20.net/compendium/dnd5e/Entertainer%27s%20Pack#h-Entertainer%27s%20Pack).
 
-4. Leather Armor
+Leather Armor
 
-Information at [Roll20](https://roll20.net/compendium/dnd5e/Leather%20Armor#content).
+  - Information at [Roll20](https://roll20.net/compendium/dnd5e/Leather%20Armor#content).
 
-5. Dagger
+Dagger
 
-Information at [Roll20](https://roll20.net/compendium/dnd5e/Dagger#content).
+  - Information at [Roll20](https://roll20.net/compendium/dnd5e/Dagger#content).
 
 **Money**
 
