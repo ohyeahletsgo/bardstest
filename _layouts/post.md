@@ -4,8 +4,8 @@ layout: default
 
 {% include navigation.html %}
 
-# {{ page.title | escape }}  
+# {{ page.title }}  
 
-{{ page.date }}  
+{{ page.date | date: "%b %-d, %Y"}}  
 
 {{ content }}  
