@@ -13,6 +13,8 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
 ## Character Stats
 
+<details>
+
 **BASIC STATS**
 
 | Stat         | Value | Buff |
@@ -73,23 +75,29 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
 8 / 12
 
-## Weapons
+</details>
+
+## Items
+
+<details>
+
+**Weapons**
 
 | Name           | Cost  | Damage       | Weight | Properties                                | Class          |
 | -------------- | ----- | ------------ | ------ | ----------------------------------------- | -------------- |
-| Crossbow, hand | 75 gp | 1d6 piercing | 3 lb.  | Ammunition (range 30/120), light, loading | Martial Ranged | 
+| Crossbow, hand | 75 gp | 1d6 piercing | 3 lb.  | Ammunition (range 30/120), light, loading | Martial Ranged |
 
-## Items
+**Carried Items**
 
 1. Entertainer's Pack
 
 [Roll20](https://roll20.net/compendium/dnd5e/Entertainer%27s%20Pack#h-Entertainer%27s%20Pack)
 
-1. Delilah's Tambourine
+2. Delilah's Tambourine
 
 Gives a +2 buff to all Performance checks.
 
-2. Delilah's Leotard
+3. Delilah's Leotard
 
 Gives a +2 buff to all Charisma checks.
 
@@ -98,6 +106,8 @@ Gives a +2 buff to all Charisma checks.
 Gold: ?
 
 Silver: ? 
+  
+</details>
 
 ## Spells
 
@@ -113,6 +123,8 @@ Silver: ?
 
 1. Light
 
+<details>
+
 Evocation cantrip
 
 Casting Time: 1 action
@@ -123,7 +135,11 @@ Duration: 1 hour
 You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
 
+</details>
+  
 2. Vicious Mockery
+
+<details>
 
 Enchantment cantrip
 
@@ -135,9 +151,13 @@ Duration: Instantaneous
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
+</details>
+
 ### Level 1 Spells
 
 1. Hideous Laughter
+
+<details>
 
 1st-level enchantment
 
@@ -149,7 +169,11 @@ Duration: Concentration, up to 1 minute
 A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.
 
+</details>
+  
 2. Heroism
+
+<details>
 
 1st-level enchantment
 
@@ -162,8 +186,12 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
+</details>
+  
 3. Disguise Self
 
+<details>
+  
 1st-level illusion
 
 Casting Time: 1 action
@@ -175,8 +203,12 @@ You make yourself--including your clothing, armor, weapons, and other belongings
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
 
+</details>
+
 4. Feather Fall
 
+<details>
+  
 1st-level transmutation
 
 Casting Time: 1 reaction, which you take when you or a creature within 60 feet of you falls
@@ -186,10 +218,14 @@ Duration: 1 minute
 
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
+</details>
+
 ### Level 2
 
 1. Suggestion
 
+<details>
+  
 2nd-level enchantment
 
 Casting Time: 1 action
@@ -201,6 +237,8 @@ You suggest a course of activity (limited to a sentence or two) and magically in
 The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.
 If you or any of your companions damage the target, the spell ends.
+
+</details>
 
 ## Langauges
 
