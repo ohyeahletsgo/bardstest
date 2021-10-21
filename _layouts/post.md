@@ -6,6 +6,6 @@ layout: default
 
 <h1>{{ page.title }}</h1>  
 
-<p>{{ page.date | date: "%b %-d, %Y"}}</P>
+<p> > {{ page.date | date: "%b %-d, %Y"}}</P>
 
 {{ content }}  
