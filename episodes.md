@@ -2,10 +2,9 @@
 title: Episodes
 layout: default
 ---
-
-# {{ page.title }}
-
 {% include navigation.html %}
+
+## Episodes
 
 <ul>
   {% for post in site.posts %}
