@@ -16,7 +16,7 @@ title: Home Page
 
 ## Episodes
 
-Read the [campaign log](_pages/blog.html)
+Read the [campaign log](episodes.md)
 
 ## Other Campaign Info
 
