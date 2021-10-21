@@ -3,7 +3,7 @@ title: Episodes
 layout: default
 ---
 
-# {{ title }}
+# {{ page.title }}
 
 {% include navigation.html %}
 
