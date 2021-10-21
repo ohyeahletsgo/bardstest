@@ -5,13 +5,17 @@ layout: default
 
 # Calista
 
-Human Bard / Bard 
-
-Level: 2
+| Race  | Class | Secondary Class | Level |
+| ----- | ----- | --------------- | ----- |
+| Human | Bard  | Bard            | 2     | 
 
 Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
 ## Character Stats
+
+| Health Points | Damage |
+| ------------- | ------ |
+| 12            | 4      |
 
 **BASIC STATS**
 
@@ -28,7 +32,6 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
 | Stat          | Value  |
 | ------------- | ------ |
-| Health Points | 8 / 12 |
 | Inspiration   | ?      | 
 | Proficiency   | +2     | 
 | Armor Class   | 14     | 
@@ -69,6 +72,12 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 | Stealth (Dex)         | 0     |
 | Survival (Wis)        | 0     |
 
+**ABILITIES**
+
+1. Bardic Inspiration
+2. Jack of All Trades
+3. Song of Rest (d6)
+
 ## Items
 
 **Weapons**
@@ -77,19 +86,29 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 | -------------- | ----- | ------------ | ------ | ----------------------------------------- | -------------- |
 | Crossbow, hand | 75 gp | 1d6 piercing | 3 lb.  | Ammunition (range 30/120), light, loading | Martial Ranged |
 
+Weapon info at [Roll20](https://roll20.net/compendium/dnd5e/Weapons#content)
+
 **Carried Items**
 
-1. Entertainer's Pack
+Delilah's Tambourine
 
-Information at [Roll20](https://roll20.net/compendium/dnd5e/Entertainer%27s%20Pack#h-Entertainer%27s%20Pack).
+  - Gives a +2 buff to all Performance checks.
 
-2. Delilah's Tambourine
+Delilah's Leotard
 
-Gives a +2 buff to all Performance checks.
+  - Gives a +2 buff to all Charisma checks.
 
-3. Delilah's Leotard
+Entertainer's Pack
 
-Gives a +2 buff to all Charisma checks.
+  - Information at [Roll20](https://roll20.net/compendium/dnd5e/Entertainer%27s%20Pack#h-Entertainer%27s%20Pack).
+
+Leather Armor
+
+  - Information at [Roll20](https://roll20.net/compendium/dnd5e/Leather%20Armor#content).
+
+Dagger
+
+  - Information at [Roll20](https://roll20.net/compendium/dnd5e/Dagger#content).
 
 **Money**
 
