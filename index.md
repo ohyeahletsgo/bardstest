@@ -4,7 +4,7 @@ title: Home Page
 
 # Welcome
 
-{% include navigation.html %}
+Home page
 
 ## Players
 
