@@ -4,7 +4,7 @@ layout: default
 
 # NPCs
 
-{% include navigation %}
+{% include navigation.html %}
 
 ## List of NPCs
 
