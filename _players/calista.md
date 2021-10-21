@@ -3,7 +3,7 @@ name: Calista
 layout: default
 ---
 
-# {{ Name }}
+# Calista
 
 Human Bard / Bard 
 
