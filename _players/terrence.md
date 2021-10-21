@@ -26,13 +26,14 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
 **CORE STATS**
 
-| Stat         | Value |
-| ------------ | ----- |
-| Inspiration  | ?     | 
-| Proficiency  | +2    | 
-| Armor Class  | 14    | 
-| Initiative   | +2    | 
-| Speed        | 30 ft | 
+| Stat          | Value  |
+| ------------- | ------ |
+| Health Points | 8 / 12 |
+| Inspiration   | ?      | 
+| Proficiency   | +2     | 
+| Armor Class   | 14     | 
+| Initiative    | +2     | 
+| Speed         | 30 ft  | 
 
 **SAVING THROWS**
 
@@ -68,11 +69,6 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 | Stealth (Dex)         | 0     |
 | Survival (Wis)        | 0     |
 
-
-**HEALTH POINTS**
-
-8 / 12
-
 ## Items
 
 **Weapons**
@@ -85,7 +81,7 @@ Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
 1. Entertainer's Pack
 
-[Roll20](https://roll20.net/compendium/dnd5e/Entertainer%27s%20Pack#h-Entertainer%27s%20Pack)
+Information at [Roll20](https://roll20.net/compendium/dnd5e/Entertainer%27s%20Pack#h-Entertainer%27s%20Pack).
 
 2. Delilah's Tambourine
 
