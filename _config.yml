@@ -4,7 +4,10 @@ collections:
   players:
     output: true
     permalink: /:collection/:path
-  playersadv:
+  npcs:
+    output: true
+    permalink: /:collection/:path
+  locations:
     output: true
     permalink: /:collection/:path
 
