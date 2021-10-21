@@ -8,6 +8,12 @@ The only DnD campaign, overflowing with bards and daddy issues.
 
 ## Players
 
+<ul>
+  {% for player in site.players %}
+    <li><a href="{{ player.link }}">player.name</a></li>
+  {% endfor %}
+</ul>
+
 - [Calista](_players/calista.md)
 - [Davos](_players/davos.md)
 - [Shim](_players/shim.md)
