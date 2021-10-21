@@ -11,6 +11,8 @@ layout: player
 
 Class info: [Bard (Roll20)](https://roll20.net/compendium/dnd5e/Bard#content)
 
+![Calista Image](../img/calista.png)
+
 ## Character Stats
 
 | Health Points | Damage |
