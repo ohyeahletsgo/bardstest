@@ -2,7 +2,7 @@
 player: Kekoa
 name: Terrence Lieberman
 link: terrence.md
-layout: player.html
+layout: default.html
 ---
 
 # Terrence Lieberman
