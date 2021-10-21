@@ -10,7 +10,7 @@ Home page of the _**Oops! All Bards**_ DnD campaign
 
 <ul>
   {% for player in site.players %}
-    <li><a href="{{ site.url }}/bardstest{{ player.url }}">{{ player.name }}</a></li>
+    <li><a href="{{ site.url }}/oopsallbards{{ player.url }}">{{ player.name }}</a></li>
   {% endfor %}
 </ul>
 
