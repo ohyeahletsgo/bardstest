@@ -2,20 +2,20 @@
 <div class="post_navi">
   {%- if page.previous.url -%}
   <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
-    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Previous Post</div><div><span>{{ page.previous.title }}</span></div>
+    <div class="post_navi-arrow">&lt; Previous Post:</div><div><span>{{ page.previous.title }}</span></div>
   </a>
   {%- else -%}
   <a class="post_navi-item nav_prev" href="{{ 'episodes.html' | absolute_url }}" title="Episodes">
-    <div class="post_navi-arrow">&lt; Campaign Log</div>
+    <div class="post_navi-arrow">&lt; Return to Campaign Log</div>
   </a>
   {%- endif -%}
   {%- if page.next.url -%}
   <a class="post_navi-item nav_next" href="{{ page.next.url }}" title="{{ page.next.title }}">
-    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Next Post</div><div><span>{{ page.next.title }}</span></div>
+    <div class="post_navi-arrow">&gt; Next Post:</div><div><span>{{ page.next.title }}</span></div>
   </a>
   {%- else -%}
   <a class="post_navi-item nav_next" href="{{ 'episodes.html' | absolute_url }}" title="Episodes">
-    <div class="post_navi-arrow">&gt; Campaign Log</div>
+    <div class="post_navi-arrow">&gt; Return to Campaign Log</div>
   </a>
   {%- endif -%}
 </div>
